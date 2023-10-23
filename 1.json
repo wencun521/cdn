@@ -1,0 +1,250 @@
+{
+	"code": 1,
+	"msg": "数据列表",
+	"page": 1,
+	"pagecount": 3469,
+	"limit": "20",
+	"total": 69362,
+	"list": [{
+		"vod_id": 656238,
+		"vod_name": "2023重阳奇妙游",
+		"type_id": 3,
+		"type_name": "综艺",
+		"vod_en": "2023ZYQMY2023zhongyangqimiaoyou",
+		"vod_time": "2023-10-23 19:30:38",
+		"vod_remarks": "更新至2023-10-22期",
+		"vod_play_from": "qiyi,seven"
+	}, {
+		"vod_id": 655024,
+		"vod_name": "梅花红桃",
+		"type_id": 2,
+		"type_name": "连续剧",
+		"vod_en": "MHHTmeihuahongtao",
+		"vod_time": "2023-10-23 19:30:38",
+		"vod_remarks": "更新至20集",
+		"vod_play_from": "seven,qq,qiyi"
+	}, {
+		"vod_id": 655201,
+		"vod_name": "你好！汉语桥",
+		"type_id": 3,
+		"type_name": "综艺",
+		"vod_en": "NHHYQnihaohanyuqiao",
+		"vod_time": "2023-10-23 19:30:37",
+		"vod_remarks": "更新至2023-10-22期",
+		"vod_play_from": "qiyi,seven"
+	}, {
+		"vod_id": 587313,
+		"vod_name": "航海王",
+		"type_id": 4,
+		"type_name": "动漫",
+		"vod_en": "HHWhanghaiwang",
+		"vod_time": "2023-10-23 19:30:36",
+		"vod_remarks": "全剧集",
+		"vod_play_from": "qiyi,seven"
+	}, {
+		"vod_id": 587176,
+		"vod_name": "万古神话",
+		"type_id": 4,
+		"type_name": "动漫",
+		"vod_en": "WGSHwangushenhua",
+		"vod_time": "2023-10-23 19:30:33",
+		"vod_remarks": "全剧集",
+		"vod_play_from": "qiyi,seven"
+	}, {
+		"vod_id": 586975,
+		"vod_name": "家政女皇2023",
+		"type_id": 3,
+		"type_name": "综艺",
+		"vod_en": "JZNH2023jiazhengnvhuang2023",
+		"vod_time": "2023-10-23 19:30:33",
+		"vod_remarks": "更新至2023-10-23期",
+		"vod_play_from": "qiyi,seven"
+	}, {
+		"vod_id": 587026,
+		"vod_name": "生而为猫",
+		"type_id": 4,
+		"type_name": "动漫",
+		"vod_en": "SEWMshengerweimao",
+		"vod_time": "2023-10-23 19:30:32",
+		"vod_remarks": "更新至88集",
+		"vod_play_from": "qiyi,seven"
+	}, {
+		"vod_id": 654512,
+		"vod_name": "仙逆",
+		"type_id": 4,
+		"type_name": "动漫",
+		"vod_en": "XNxianni",
+		"vod_time": "2023-10-23 19:30:31",
+		"vod_remarks": "更至07集",
+		"vod_play_from": "seven,qq"
+	}, {
+		"vod_id": 649379,
+		"vod_name": "锦衣神匠",
+		"type_id": 4,
+		"type_name": "动漫",
+		"vod_en": "JYSJjinyishenjiang",
+		"vod_time": "2023-10-23 19:30:31",
+		"vod_remarks": "更新至8集",
+		"vod_play_from": "qiyi,seven"
+	}, {
+		"vod_id": 587175,
+		"vod_name": "无上神帝",
+		"type_id": 4,
+		"type_name": "动漫",
+		"vod_en": "WSSDwushangshendi",
+		"vod_time": "2023-10-23 19:30:30",
+		"vod_remarks": "更至320集",
+		"vod_play_from": "qq,seven"
+	}, {
+		"vod_id": 587174,
+		"vod_name": "独步逍遥",
+		"type_id": 4,
+		"type_name": "动漫",
+		"vod_en": "DBXYdubuxiaoyao",
+		"vod_time": "2023-10-23 19:30:30",
+		"vod_remarks": "更至358集",
+		"vod_play_from": "qq,seven"
+	}, {
+		"vod_id": 587173,
+		"vod_name": "逆天至尊",
+		"type_id": 4,
+		"type_name": "动漫",
+		"vod_en": "NTZZnitianzhizun",
+		"vod_time": "2023-10-23 19:30:29",
+		"vod_remarks": "更至243集",
+		"vod_play_from": "qq,seven"
+	}, {
+		"vod_id": 649055,
+		"vod_name": "魔装传说",
+		"type_id": 4,
+		"type_name": "动漫",
+		"vod_en": "MZCSmozhuangchuanshuo",
+		"vod_time": "2023-10-23 19:30:28",
+		"vod_remarks": "更至22集",
+		"vod_play_from": "qq,seven"
+	}, {
+		"vod_id": 587885,
+		"vod_name": "九天玄帝诀",
+		"type_id": 4,
+		"type_name": "动漫",
+		"vod_en": "JTXDJjiutianxuandijue",
+		"vod_time": "2023-10-23 19:30:27",
+		"vod_remarks": "更新至189集",
+		"vod_play_from": "youku,seven"
+	}, {
+		"vod_id": 655137,
+		"vod_name": "我的助理不简单",
+		"type_id": 2,
+		"type_name": "连续剧",
+		"vod_en": "WDZLBJDwodezhulibujiandan",
+		"vod_time": "2023-10-23 19:30:25",
+		"vod_remarks": "更新至3集",
+		"vod_play_from": "seven,qq,qiyi"
+	}, {
+		"vod_id": 654925,
+		"vod_name": "问心",
+		"type_id": 2,
+		"type_name": "连续剧",
+		"vod_en": "WXwenxin",
+		"vod_time": "2023-10-23 19:30:25",
+		"vod_remarks": "更新至5集",
+		"vod_play_from": "qq,seven"
+	}, {
+		"vod_id": 587109,
+		"vod_name": "仙武帝尊",
+		"type_id": 4,
+		"type_name": "动漫",
+		"vod_en": "XWDZxianwudizun",
+		"vod_time": "2023-10-23 19:30:23",
+		"vod_remarks": "全剧集",
+		"vod_play_from": "youku,seven"
+	}, {
+		"vod_id": 655099,
+		"vod_name": "变形联盟3越空勇者",
+		"type_id": 4,
+		"type_name": "动漫",
+		"vod_en": "BXLM3YKYZbianxinglianmeng3yuekongyongzhe",
+		"vod_time": "2023-10-23 19:30:22",
+		"vod_remarks": "更新至13集",
+		"vod_play_from": "seven,mgtv"
+	}, {
+		"vod_id": 587382,
+		"vod_name": "从农场到餐桌",
+		"type_id": 3,
+		"type_name": "综艺",
+		"vod_en": "CNCDCZcongnongchangdaocanzhuo",
+		"vod_time": "2023-10-23 19:30:19",
+		"vod_remarks": "更新至2023-10-23期",
+		"vod_play_from": "qiyi,seven"
+	}, {
+		"vod_id": 655222,
+		"vod_name": "保护好我方马甲",
+		"type_id": 2,
+		"type_name": "连续剧",
+		"vod_en": "BHHWFMJbaohuhaowofangmajia",
+		"vod_time": "2023-10-23 19:30:18",
+		"vod_remarks": "更新至14集",
+		"vod_play_from": "mgtv,seven"
+	}],
+	"class": [{
+		"type_id": 1,
+		"type_pid": 0,
+		"type_name": "电影"
+	}, {
+		"type_id": 2,
+		"type_pid": 0,
+		"type_name": "连续剧"
+	}, {
+		"type_id": 3,
+		"type_pid": 0,
+		"type_name": "综艺"
+	}, {
+		"type_id": 4,
+		"type_pid": 0,
+		"type_name": "动漫"
+	}, {
+		"type_id": 6,
+		"type_pid": 0,
+		"type_name": "资讯"
+	}, {
+		"type_id": 21,
+		"type_pid": 6,
+		"type_name": "明星资讯"
+	}, {
+		"type_id": 22,
+		"type_pid": 6,
+		"type_name": "影视资讯"
+	}, {
+		"type_id": 23,
+		"type_pid": 0,
+		"type_name": "演员"
+	}, {
+		"type_id": 24,
+		"type_pid": 23,
+		"type_name": "内地明星"
+	}, {
+		"type_id": 25,
+		"type_pid": 23,
+		"type_name": "港台明星"
+	}, {
+		"type_id": 26,
+		"type_pid": 23,
+		"type_name": "欧美明星"
+	}, {
+		"type_id": 27,
+		"type_pid": 23,
+		"type_name": "日韩明星"
+	}, {
+		"type_id": 29,
+		"type_pid": 6,
+		"type_name": "音乐资讯"
+	}, {
+		"type_id": 30,
+		"type_pid": 6,
+		"type_name": "综艺资讯"
+	}, {
+		"type_id": 31,
+		"type_pid": 0,
+		"type_name": "直播"
+	}]
+}
